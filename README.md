@@ -24,6 +24,8 @@ This project is a graphical Tic Tac Toe (X and O) game developed using Python's 
 
 # 📸 Screenshots
 
+<img width="992" height="980" alt="image" src="https://github.com/user-attachments/assets/5496497f-a154-4126-b303-dda07e5e5be8" />
+
 <img width="990" height="975" alt="image" src="https://github.com/user-attachments/assets/61d96b81-e7ee-4deb-8d12-97d33961bd96" />
 
 <img width="988" height="973" alt="image" src="https://github.com/user-attachments/assets/e1d208d2-a922-48b5-904e-bfb0da8fcbc7" />
