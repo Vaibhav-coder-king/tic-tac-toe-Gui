@@ -23,7 +23,10 @@ def menu_back():
 	frm.place_forget()
 	back.place_forget()
 	reset.place_forget()
-	Turn.place_forget()
+	try:
+		Turn.place_forget()
+	except:
+		pass
 	back.place_forget()
 
 def menu():
@@ -246,6 +249,7 @@ options=['X','O']
 select=""
 Turn=None
 set_default_color_theme("green")
+
 
 
 
