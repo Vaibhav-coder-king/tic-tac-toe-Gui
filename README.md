@@ -39,9 +39,10 @@ CustomTkinter must be installed before running
 Window is non-resizable and centered for consistency
 
 # 🙌 Credits
-Developed by: Vaibhav-coder-king
+Developed by: [Vaibhav-coder-king](https://github.com/Vaibhav-coder-king)
 
 Inspired by classic Tic Tac Toe mechanics
 
 # 📜 License
 This project is open-source and free to use under the MIT License.
+
